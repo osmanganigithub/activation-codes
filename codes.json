@@ -5,6 +5,7 @@
   "correctCode120Days": "WB-BHUMI-120D-print",
   "correctCode150Days": "WB-BHUMI-150D-plot",
   "correctCode180Days": "WB-BHUMI-180D-free",
+ "correctCodeLifetime": "WB-BHUMI-LIFETIME-XXXX",
   "subscriptionInfo": {
     "30days": {
       "duration": 30,
@@ -35,6 +36,20 @@
       "duration": 180,
       "name": "6 Month Plan",
       "features": ["Basic Access", "Print Support"]
+    }
+  }
+}
+    },
+    "lifetime": {
+      "duration": "LIFETIME",
+      "name": "Lifetime Access",
+      "features": [
+        "Unlimited Access",
+        "Premium Print Support",
+        "Priority Updates",
+        "All Future Features",
+        "No Expiration"
+      ]
     }
   }
 }
