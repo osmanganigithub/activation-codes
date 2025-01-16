@@ -1,6 +1,5 @@
 {
-  "codes": [
-    "BASE64_ENCRYPTED_CODE_1",
-    "BASE64_ENCRYPTED_CODE_2"
-  ]
+    "correctCode30Days": "WB30PRINT2025",
+    "correctCode60Days": "WBBHUMI60PRINT2025",
+    "correctCode90Days": "WBBHUMIPRINTFREE2025"
 }
