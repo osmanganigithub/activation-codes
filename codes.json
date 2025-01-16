@@ -1,11 +1,10 @@
 {
-  "correctCode30Days": "WB-BHUMI-30D-meem",
-  "correctCode60Days": "WB-BHUMI-60D-aqsa",
-  "correctCode90Days": "WB-BHUMI-90D-bhumi",
-  "correctCode120Days": "WB-BHUMI-120D-print",
-  "correctCode150Days": "WB-BHUMI-150D-plot",
-  "correctCode180Days": "WB-BHUMI-180D-free",
- "correctCodeLifetime": "WB-BHUMI-LIFETIME-XXXX",
+  "correctCode30Days": "WB-BHUMI-30S-SRKF",
+  "correctCode60Days": "WB-BHUMI-60D-WBPC",
+  "correctCode90Days": "WB-BHUMI-90D-BSFI",
+  "correctCode120Days": "WB-BHUMI-120D-WBBB",
+  "correctCode150Days": "WB-BHUMI-150D-OMSD",
+  "correctCode180Days": "WB-BHUMI-180D-BELD",
   "subscriptionInfo": {
     "30days": {
       "duration": 30,
@@ -36,20 +35,6 @@
       "duration": 180,
       "name": "6 Month Plan",
       "features": ["Basic Access", "Print Support"]
-    }
-  }
-}
-    },
-    "lifetime": {
-      "duration": "LIFETIME",
-      "name": "Lifetime Access",
-      "features": [
-        "Unlimited Access",
-        "Premium Print Support",
-        "Priority Updates",
-        "All Future Features",
-        "No Expiration"
-      ]
     }
   }
 }
