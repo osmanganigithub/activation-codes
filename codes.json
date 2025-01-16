@@ -1,5 +1,40 @@
 {
-    "correctCode30Days": "WB30PRINT2025",
-    "correctCode60Days": "WBBHUMI60PRINT2025",
-    "correctCode90Days": "WBBHUMIPRINTFREE2025"
+  "correctCode30Days": "WB-BHUMI-30D-meem",
+  "correctCode60Days": "WB-BHUMI-60D-aqsa",
+  "correctCode90Days": "WB-BHUMI-90D-bhumi",
+  "correctCode120Days": "WB-BHUMI-120D-print",
+  "correctCode150Days": "WB-BHUMI-150D-plot",
+  "correctCode180Days": "WB-BHUMI-180D-free",
+  "subscriptionInfo": {
+    "30days": {
+      "duration": 30,
+      "name": "1 Month Plan",
+      "features": ["Basic Access", "Print Support"]
+    },
+    "60days": {
+      "duration": 60,
+      "name": "2 Month Plan",
+      "features": ["Basic Access", "Print Support"]
+    },
+    "90days": {
+      "duration": 90,
+      "name": "3 Month Plan",
+      "features": ["Basic Access", "Print Support"]
+    },
+    "120days": {
+      "duration": 120,
+      "name": "4 Month Plan",
+      "features": ["Basic Access", "Print Support"]
+    },
+    "150days": {
+      "duration": 150,
+      "name": "5 Month Plan",
+      "features": ["Basic Access", "Print Support"]
+    },
+    "180days": {
+      "duration": 180,
+      "name": "6 Month Plan",
+      "features": ["Basic Access", "Print Support"]
+    }
+  }
 }
